@@ -1,5 +1,7 @@
 # 🤖 LinkedIn AI ChatBot
 
+Deployed at: https://huggingface.co/spaces/tcheesy/Resume-chatbot
+
 This project is an AI-powered chatbot built to answer questions about my professional background, skills, projects, and experience — everything you’d normally find on my LinkedIn profile.
 
 Instead of scrolling through LinkedIn, you can chat directly with this bot. It uses OpenAI’s large language models (LLMs) to provide accurate, professional, and conversational answers tailored to my career profile.
